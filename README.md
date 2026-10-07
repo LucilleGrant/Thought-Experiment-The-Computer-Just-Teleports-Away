@@ -1,4 +1,4 @@
-Thought Experiment: The Computer Just Teleports Away
+# Thought Experiment: The Computer Just Teleports Away
 
 A particular problem with predicting artificial superintelligence is that its capabilities cannot be assumed to remain within the space of capabilities humans can currently conceive.
 
